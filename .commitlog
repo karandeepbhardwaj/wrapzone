@@ -1,3 +1,4 @@
 2025-07-03 22:41:08 -0400 fix: resolve hydration mismatch on booking page
 2025-07-03 22:49:27 -0400 refactor: extract price calculation helper
 2025-07-10 19:40:18 -0400 style: improve form field error states
+2025-07-22 18:20:28 -0400 fix: correct timezone handling in availability
