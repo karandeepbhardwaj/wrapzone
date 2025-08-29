@@ -5,3 +5,4 @@
 2025-08-04 20:56:23 -0400 refactor: simplify webhook signature verification
 2025-08-04 20:20:14 -0400 fix: handle expired session in checkout
 2025-08-18 20:52:18 -0400 style: adjust gallery grid on tablet
+2025-08-28 21:59:41 -0400 fix: resolve image lazy loading flicker
