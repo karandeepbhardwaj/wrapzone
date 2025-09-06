@@ -7,3 +7,4 @@
 2025-08-18 20:52:18 -0400 style: adjust gallery grid on tablet
 2025-08-28 21:59:41 -0400 fix: resolve image lazy loading flicker
 2025-08-28 23:30:34 -0400 refactor: consolidate email template styles
+2025-09-05 22:06:08 -0400 fix: correct discount code validation
