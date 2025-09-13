@@ -9,3 +9,4 @@
 2025-08-28 23:30:34 -0400 refactor: consolidate email template styles
 2025-09-05 22:06:08 -0400 fix: correct discount code validation
 2025-09-05 21:48:23 -0400 style: update hero section responsive breakpoints
+2025-09-12 20:19:07 -0400 fix: handle Stripe webhook retry correctly
