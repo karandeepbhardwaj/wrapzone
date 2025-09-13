@@ -10,3 +10,4 @@
 2025-09-05 22:06:08 -0400 fix: correct discount code validation
 2025-09-05 21:48:23 -0400 style: update hero section responsive breakpoints
 2025-09-12 20:19:07 -0400 fix: handle Stripe webhook retry correctly
+2025-09-12 22:07:49 -0400 refactor: extract booking status helpers
