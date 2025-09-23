@@ -15,3 +15,4 @@
 2025-09-17 18:20:32 -0400 style: improve admin table row hover
 2025-09-21 11:04:19 -0400 fix: correct OG image dimensions
 2025-09-21 22:54:07 -0400 refactor: move Drizzle queries to repository layer
+2025-09-21 21:44:13 -0400 fix: handle missing package in booking form
